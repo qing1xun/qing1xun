@@ -1,4 +1,6 @@
-## Hi there 👋
+I am qing12345
+I like reading novels.
+I am a newbie in programming.
 
 <!--
 **qing1xun/qing1xun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
